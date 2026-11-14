@@ -1,6 +1,6 @@
 # 📊 Análisis Exploratorio y Dashboard de Ventas (Superstore)
 
-[![Abrir en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TU-URL-DE-STREAMLIT.streamlit.app)
+[![Abrir en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-superstore-zotvgyxo6vdu9rxzafjhho.streamlit.app/)
 
 Este proyecto presenta un flujo completo de análisis y visualización de datos utilizando el conjunto de datos público **Superstore Sales** de Kaggle. El objetivo es comparar la implementación de 5 visualizaciones estadísticas fundamentales en **Matplotlib** y **Seaborn**, y desplegar posteriormente una aplicación web interactiva mediante **Streamlit**.
 
@@ -9,7 +9,7 @@ Este proyecto presenta un flujo completo de análisis y visualización de datos 
 ## 🌐 Aplicación Web Interactiva
 
 Puedes explorar los datos y filtrar las métricas en tiempo real a través de la aplicación desplegada en Streamlit Community Cloud:
-👉 **[Ver Dashboard en Vivo](https://TU-URL-DE-STREAMLIT.streamlit.app)**
+👉 **[Ver Dashboard en Vivo](https://dashboard-superstore-zotvgyxo6vdu9rxzafjhho.streamlit.app/)**
 
 ---
 
@@ -50,5 +50,5 @@ Si deseas clonar este repositorio y ejecutar el dashboard en tu propio equipo:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU-USUARIO/TU-REPOSITORIO.git](https://github.com/TU-USUARIO/TU-REPOSITORIO.git)
-   cd TU-REPOSITORIO
+   git clone [https://github.com/Reysanx/dashboard-superstore.git](https://github.com/Reysanx/dashboard-superstore.git)
+   cd dashboard-superstore
